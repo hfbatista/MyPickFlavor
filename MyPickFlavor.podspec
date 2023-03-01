@@ -8,7 +8,7 @@ s.summary = "MyPickFlavor lets a user select an ice cream flavor."
 s.requires_arc = true
 
 # 2
-s.version = "0.1.0"
+s.version = "1.1.0"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -20,7 +20,7 @@ s.author = { "Henrique Batista" => "hfcadonly@gmail.com" }
 s.homepage = "https://github.com/hfbatista"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/hfbatista/MyPickFlavor.git",
+s.source = { :git => "https://github.com/hfbatista/MyPodSpecs.git",
              :tag => "#{s.version}" }
 
 # 7
