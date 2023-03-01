@@ -3,8 +3,8 @@ Pod::Spec.new do |s|
 # 1
 s.platform = :ios
 s.ios.deployment_target = '14.0'
-s.name = "RWPickFlavor"
-s.summary = "RWPickFlavor lets a user select an ice cream flavor."
+s.name = "MyPickFlavor"
+s.summary = "MyPickFlavor lets a user select an ice cream flavor."
 s.requires_arc = true
 
 # 2
@@ -17,7 +17,7 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Henrique Batista" => "hfcadonly@gmail.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "https://github.com/hfbatista/MyPickFlavor"
+s.homepage = "https://github.com/hfbatista"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
 s.source = { :git => "https://github.com/hfbatista/MyPickFlavor.git",
